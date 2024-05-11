@@ -22,4 +22,4 @@ Welcome to Face Joker App! This app allows you to have some fun with your face b
 4. **Enjoy**: Watch as the joker icon interacts with your face and listen for the Joker song when your face is in the viewport.
 
 ## Download App
-[<img src="https://github.com/SolankiYogesh/Fun-RN-Face-Detection-APP/assets/70507671/581e1589-873e-4bb4-801d-e0586d951e41" alt="App Download" width="200"/>](https://github.com/SolankiYogesh/Fun-RN-Face-Detection-APP/tree/main/APP)
+[<img src="https://github.com/SolankiYogesh/Fun-RN-Face-Detection-APP/assets/70507671/581e1589-873e-4bb4-801d-e0586d951e41" alt="App Download" width="200"/>](https://drive.google.com/file/d/1G9dX_fr7C6aLuDoj8ZMX8RjbKeDrdDlA/view?usp=sharing)
